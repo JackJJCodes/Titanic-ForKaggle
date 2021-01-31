@@ -1,2 +1,2 @@
 # Titanic-ForKaggle
-This is my go on a classic ML problem on Kaggle, Titanic Survival Prediction
+This is my attempt on a classic ML problem on Kaggle, Titanic Survival Prediction
