@@ -14,4 +14,14 @@ I have used Logistic Regression for this project, because:
 For a more comprehensive understanding of Logistic Regression, check out this awesome blog by christophm: https://christophm.github.io/interpretable-ml-book/logistic.html
 
 This repository contains the following files:
-1. 
+
+1. third_draft.csv: Consists of the .csv file needed to be put as a submission, for the Kaggle competition.
+                    Consists of the people who did, or did not survive.
+2. titanic_comp.ipynb: Consists of the Jupyter Notebook, which consists all the code for the project.
+3. titanic-test.csv: Consists of the testing dataset, which will be used further in the project.
+4. titanic_train.csv: Consists of the training dataset, which we will feed in to our algorithm.
+
+## What have I done in this project?
+1. Cleaned the dataset, eliminated null and missing values.
+2. Visualized graphically different features and their correlation with each other.
+3. Converted various categorical features into numerical features using OneHotEncoding.
