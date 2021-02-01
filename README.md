@@ -13,3 +13,5 @@ I have used Logistic Regression for this project, because:
 
 For a more comprehensive understanding of Logistic Regression, check out this awesome blog by christophm: https://christophm.github.io/interpretable-ml-book/logistic.html
 
+This repository contains the following files:
+1. 
