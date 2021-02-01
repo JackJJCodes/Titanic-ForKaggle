@@ -25,3 +25,5 @@ This repository contains the following files:
 1. Cleaned the dataset, eliminated null and missing values.
 2. Visualized graphically different features and their correlation with each other.
 3. Converted various categorical features into numerical features using OneHotEncoding.
+
+Kaggle-score: 0.769 or 76.9% accuracy.
